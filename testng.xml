@@ -1,0 +1,7 @@
+<suite name="TestNgMavenExampleSuite" parallel="false">
+    <test name="TestNgMavenTest">
+        <classes>
+            <class name = "runners.Runner"/>
+        </classes>
+    </test>
+</suite>
